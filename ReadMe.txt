@@ -1,0 +1,1 @@
+This is the result of playing with Unicode a little and it is by no means perfect, but as a beginning it may be helpful to some of you. Download is 2 kB. ~~ PS:- I speak none of the languages; I just picked some characters that looked typical too me.
